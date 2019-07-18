@@ -1,1 +1,9 @@
+DistanceMeasures.py 
+MeasurePerformanceOfFinalClusters.py 
+Kmeans2.py 
+graphing.py
+1.These 4 code are the main code files;
 
+2.animals, countries, fruits, veggies are the data files;
+
+3.fscore.png, presision.png, recall.png are output pictures.
